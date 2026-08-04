@@ -6,6 +6,13 @@ It keeps you focused with a fresh tomato emoji, flashes a squashed tomato splat 
 
 ---
 
+## Edit zshrc for global terminal use
+```bash
+# Pomodoro timer
+worktimer() {
+    /Users/dev/Projects/CLI-Pomodoro-Timer/mytimer "$1"
+}
+```
 ---
 
 ## ⚡ How to Use
