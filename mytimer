@@ -1,0 +1,6 @@
+#!/bin/bash
+# This finds the exact directory where THIS script file lives on the computer
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+# Runs the sandboxed python using that absolute folder path
+"$SCRIPT_DIR/myenv/bin/python3" "$SCRIPT_DIR/timer.py" "$1"
