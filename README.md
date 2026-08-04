@@ -6,16 +6,6 @@ It keeps you focused with a fresh tomato emoji, flashes a squashed tomato splat 
 
 ---
 
-## 🚀 One-Command Installation
-
-You can install this tool instantly from **any folder or directory location** on your Mac. Open your terminal app, copy the command block below, paste it, and press Enter:
-
-```bash
-curl -sSL https://github.com/kazuo4/CLI-Pomodoro-Timer.git | bash
-```
-
-*Note: After the installation success message appears, open a new terminal window or tab to start using the command.*
-
 ---
 
 ## ⚡ How to Use
